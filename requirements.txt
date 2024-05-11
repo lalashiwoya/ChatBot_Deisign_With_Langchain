@@ -11,3 +11,5 @@ youtube_transcript_api==0.6.2
 # For LLama Model
 # llamaapi==0.1.36
 # langchain-experimental==0.0.57
+# transformers==0.40.2
+# torch==2.3.0

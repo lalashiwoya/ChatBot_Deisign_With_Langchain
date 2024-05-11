@@ -8,3 +8,14 @@ llama3
 fronted
 backend
 .DS_Store
+LICENSE
+Meta-Llama-3-8B-Instruct/
+USE_POLICY
+USE_POLICY.md
+data_sample.json
+data_sample_1.json
+download.sh
+download_llama2.sh
+llama-2-7b-chat/
+tokenizer.model
+tokenizer_checklist.chk
